@@ -1,0 +1,7 @@
+.sticky {
+	position: sticky;
+	top: 30px;
+}
+body {
+	height: 800vh;
+}
